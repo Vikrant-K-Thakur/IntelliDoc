@@ -1,0 +1,214 @@
+Vishwakarma Institute of Technology, Pune Issue 01:Rev No. 00 : Dt. 01/08/22
+FFNo.: 654
+AI2015: DIGITAL ELECTRONICS AND MICROPRESSOR
+Course Prerequisites:
+1. Basic electronics system
+Course Objectives:
+1. Learn and illustrate the standard representation for logical functions
+2. Explore the knowledge of Digital logic circuits.
+3. Design applications based on combinational and sequential circuits.
+4. Demonstrate the concepts of microprocessor systems
+5. Adapt the knowledge based on microprocessor instructions
+6. Illustrate the concept of interrupts and its service routine
+Credits: 3 Teaching Scheme Theory: 2 Hours/Week
+Lab: 2 Hours/Week
+Course Relevance:
+The course is offered in S. Y. B.Tech (AI & DS ) Engineering
+Digital Electronics and Microprocessor Subject is aimed at developing a deep understanding of digital
+electronic circuits. At the end of the course, one would be able to analyze and synthesize different kind of
+combinatorial and sequential digital systems for real-world use.
+This course also consist of Microprocessors 8086 , 8086 microprocessor are used in many other electronic
+devices, including cell phones, kitchen appliances, automobile emission-control and timing devices,
+electronic games, telephone switching systems, thermal controls in the home, and security systems.
+[SY-TY-FINAL YEAR AI & DS AY 2023-24] Page 1Vishwakarma Institute of Technology, Pune Issue 01:Rev No. 00 : Dt. 01/08/22
+SECTION-I
+Digital Fundamentals
+Number Systems – Decimal, Binary, Octal, Hexadecimal, 1s and 2s complements, Codes – Binary,
+BCD, Excess 3, Gray, Alphanumeric codes, Boolean theorems, Logic gates, Universal gates,
+Sum of products and product of sums, Minterms and Maxterms, Karnaugh map Minimization
+(4 Hours)
+Combinational Digital Circuits:
+Standard representation for logic functions, simplification of logic functions using K-map,
+minimization of logical functions. Dont care conditions.BCD code,Gray code, Excess-3 code,
+Code converter, 4 bit binary adder & Sub-tractor:7483, Multiplexers & De-multiplexers, Encoder:
+Priority encoders, Decoders: 74138,ALU: 74181,Parity generator and checker.
+(5 Hours)
+Sequential Circuit:
+Introduction of flip-flop (F.F), 1 bit memory cell, clocked S-R, J-K, T, DFlip-flop: Truth table,
+Excitation table, Characteristics table, Shift Register, Asynchronous and Synchronous counter,
+Sequence Generator, Sequences detector (Moore and Mealy), Application of AI in Digital System
+(5 Hours
+SECTION-II
+Introduction to 8086 microprocessor:
+Internal Architecture, Generation of physical address8086,8086 memory segmentation,
+Register Organization, Addressing modes: Immediate addressing, Register addressing,
+Direct addressing, Indirect addressing, Relative addressing, Indexed addressing, Bit inherent
+addressing, bit direct addressing.
+(4 Hours)
+8086 Instructions types
+Instruction types, formats, timings, Data transfer instructions, Arithmetic instructions,
+Logical instructions, Branch instructions, Subroutine instructions, Bit manipulation instruction.
+8086 pin functions: Minimum & Maximum Mode System,Ready and Reset pin significance,
+(5 Hours)
+Interrupt Structure and Programmable Interval Timer:
+Interrupt Structure, Interrupt service Routine, Interrupt Vector Table, Hardware and Software
+Interrupts, INTR, NMI, Interrupt Response, Execution of an ISR, Priority of Interrupts
+8259-(Programmable Interval timer/counter) block diagram, control word, Operating modes
+of 8259, Interfacing with 8086 processor and Programming.
+(5 Hours)
+[SY-TY-FINAL YEAR AI & DS AY 2023-24] Page
+3Vishwakarma Institute of Technology, Pune Issue 01:Rev No. 00 : Dt. 01/08/22
+List of Tutorials:
+1. Evolution of Computing Devices
+2. Instructions types, formats and execution
+3. Interrupts in Microprocessor
+4. Trends in computer architecture
+5. RISC Vs CISC architecture: A Case Study
+6. ARM processor architecture
+7. Latest Technology in Embedded systems
+8. Multiplier Control Unit
+9. Booth’s Encoding Pattern for Fast Scalar Point Multiplication in ECC for Wireless Sensor
+Networks
+10. Internet of Things (IoT) in 5G Wireless Communications
+11. State of the art parallel processor design.
+12. Memory management in mobile OS.
+13. Evolution of processors.
+14. Ultra SPARC Processor Architecture.
+[SY-TY-FINAL YEAR AI & DS AY 2023-24] Page
+4Vishwakarma Institute of Technology, Pune Issue 01:Rev No. 00 : Dt. 01/08/22
+List of Practical’s: (Any Six)
+1. Verification of Logical Gates and Boolean Algebra (logic.ly/CEDAR AI Based
+Simulator).
+2. Code converters e.g. Excess-3 to BCD and vice versa using logical gates.
+3. Multiplexer - e.g. 16:1 Mux using 4:1 Mux (IC 74153).
+4. Decoder – e.g. 2-bit comparator (IC 74138).
+5. Synchronous Up /down counter using JK flip-flop.
+6. Sequences detector using JK flip flop.
+7. Study of 8086 Architecture and Execution of sample programs.
+8. Write 8086 ALP to find and count negative and positive number from signed array stored
+in memory and display magnitude of negative numbers (Workik.com /Context Driven
+AI-Assembler).
+9. Write 8086 ALP to access marks of 5 subjects stored in array and find overall percentage
+and display grade according to it.
+10. Write 8086 ALP to perform block transfer operation. (Don’t use string operations). Data
+bytes in a block stored in one array transfer to another array.
+11. Write 8086 ALP for following operations on the string entered by the user.
+a) String length
+b) Reverse of string
+c) Palindrome
+12. Write an ALP in 8086 to multiply two 8/16-bit numbers (Successive addition). Display
+and store the result.
+13. Write an ALP in 8086 to multiply two 8/16-bit numbers (Add and Shift method). Display
+and store the result.
+14. Write a 8086 ALP for file handling
+a) Create and Display File
+b) Copy File.
+[SY-TY-FINAL YEAR AI & DS AY 2023-24] Page
+5Vishwakarma Institute of Technology, Pune Issue 01:Rev No. 00 : Dt. 01/08/22
+List of Course Projects:
+1. Weather Imaging CubeSat with Telemetry Transmission.
+2. Ebike Speed Controller System.
+3. Air Water Pollution Sensing Smart Watch.
+4. Solar Sea Weather and Pollution Transmitter Buoy.
+5. Coin Operated Water ATM with Bottle Dispenser.
+6. Multiple Cities Load Shedding Using ARM
+7. Wireless Biomedical Parameter Monitoring System Using ARM9
+8. ARM and RFID Based Security System (Home, Office, Industrial)
+9. Advanced Electronic Voting Machine (EVM) using ARM)
+8. Online Parallel Examination.
+9. Machine Learning, Deep Learning, AI, Blockchain etc Based
+10. Agriculture, Health Care, Education, Govt., Transportation, Banking, Insurance Based
+project topics
+[SY-TY-FINAL YEAR AI & DS AY 2023-24] Page
+6Vishwakarma Institute of Technology, Pune Issue 01:Rev No. 00 : Dt. 01/08/22
+List of Course Seminar Topics:
+1. GPU computing: CUDA
+2. Memory System
+3. Replacement Algorithms
+4. Pipelining
+5. Cache Coherence
+6. Virtual Memory
+7. Hazards in Pipelining
+8. Super Computer
+9. Modern computer generations
+10. Parallel computing modelsRidge regression
+[SY-TY-FINAL YEAR AI & DS AY 2023-24] Page
+7Vishwakarma Institute of Technology, Pune Issue 01:Rev No. 00 : Dt. 01/08/22
+Text Books: (As per IEEE format)
+1. G.K Kharate ‘Digital Electronics’ – Oxford University Press 2010 seventh impression
+2013
+2. Douglas Hall, “Microprocessors and Interfacing”,2nd Edition, Tata McGraw Hill
+Publications, ISBN 0-07-025742-6.
+3. “Advanced 80386, programming techniques ” , James Turley , Tata McGraw Hill
+Publications, ISBN – 0-07-881342-5
+4. Intel 80386 Programmer's Reference Manual 1986, Intel Corporation, Order no.: 231630-
+011, December 1995.
+5. R.P. Jain, “Modern Digital Electronics,”3rdEdition, Tata McGraw-Hill, 2003, ISBN
+0 - 07 - 049492 – 4.
+Reference Books: (As per IEEE format)
+1. Ray Duncan, “Advanced MS DOS Programming,” 2nd Edition BPB Publications ISBN 0 –
+07 – 048677 – 8.
+2. M. Mano, “Digital Design”, 3rd Edition, Pearson Education, 2002, ISBN - 81 -
+7808 – 555 – 0.
+3. A. Malvino, D. Leach, “Digital Principles and Applications”, 5th Edition, Tata
+McGraw Hill, 2003, ISBN 0 - 07 - 047258 – 05.
+Course Outcomes:
+Upon completion of the course, student will be able to –
+1. Learn and illustrate the standard representation for logical functions
+2. Explore the knowledge of Digital logic circuits.
+3. Design applications based on combinational and sequential circuits.
+4. Demonstrate the concepts of microprocessor systems
+5. Adapt the knowledge based on microprocessor instructions
+6. Illustrate the concept of interrupts and its service routine
+[SY-TY-FINAL YEAR AI & DS AY 2023-24] Page
+8Vishwakarma Institute of Technology, Pune Issue 01:Rev No. 00 : Dt. 01/08/22
+Future Courses Mapping:
+1. Deep Learning
+2. Reinforcement Learning
+3. DBMS
+4. Big Data
+5. Data Mining
+6. Information Retrieval
+7. Recommendation Systems
+8. Cloud Computing – AWS
+9. IOT
+10. Artificial Intelligence
+11. Pattern Recognition
+12. Natural Language Processing
+13. Computer Vision
+Job Mapping:
+Job opportunities that one can get after learning this course
+1. Data Scientist
+2. Data Analyst
+[SY-TY-FINAL YEAR AI & DS AY 2023-24] Page
+9Vishwakarma Institute of Technology, Pune Issue 01:Rev No. 00 : Dt. 01/08/22
+3. AI Engineer
+4. Data Architect.
+5. Data Engineer.
+6. Statistician.
+7. Database Administrator.
+8. Business Analyst
+9. Business Intelligence Developer
+10. Infrastructure Architect
+11. Enterprise Architect
+12. Machine Learning Engineering
+13. Machine Learning Scientist
+CO - PO Mapping:
+PO PO2 Po3 PO4 PO5 PO6 PO PO PO9 PO1 PO1 PO1 PSO1 PSO2
+1 7 8 0 1 2
+CO
+1 3 1 2 0 0 0 2 0 2 0 0 0 0 0
+CO
+2
+2 3 2 1 0 2 0 3 2 0 0 0 0 0
+CO
+3 2 0 3 2 2 2 3 0 2 0 2 0 3 0
+CO
+4
+2 0 2 0 3 3 0 0 0 2 0 2 0 3
+CO
+5 2 1 2 0 3 3 0 0 0 2 0 2 0 3
+CO
+6 3 0 0 0 1 2 2 0 2 2 2 2 0 2
+[SY-TY-FINAL YEAR AI & DS AY 2023-24] Page
+10

@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "526413422961",
+    "project_id": "docuverse-ai-app",
+    "storage_bucket": "docuverse-ai-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526413422961:android:a996a4c9870c2bf2cf56d0",
+        "android_client_info": {
+          "package_name": "com.intellidoc.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526413422961-65tl5gspbocfpmi8oo8tb3u696f0gun6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.intellidoc.app",
+            "certificate_hash": "19872ac6996a5119574f8b8a00d1d8852aedf20f"
+          }
+        },
+        {
+          "client_id": "526413422961-o3vq2qfv62m40roc8js46mgpgk3cb1f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKRVYpCgJaXeAd6GsuHA50im7amrSxYaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526413422961-o3vq2qfv62m40roc8js46mgpgk3cb1f0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "526413422961-akvgq27ddk7824fv1rf92757dtodttm8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.frontend"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

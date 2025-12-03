@@ -1,0 +1,28 @@
+{
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "docuverse-ai-app",
+          "appId": "1:526413422961:android:a996a4c9870c2bf2cf56d0",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "docuverse-ai-app",
+          "configurations": {
+            "android": "1:526413422961:android:a996a4c9870c2bf2cf56d0",
+            "ios": "1:526413422961:ios:fbdfe37255148228cf56d0",
+            "macos": "1:526413422961:ios:fbdfe37255148228cf56d0",
+            "web": "1:526413422961:web:a9de5909534653d3cf56d0",
+            "windows": "1:526413422961:web:68622d90a3b68645cf56d0"
+          }
+        }
+      }
+    }
+  }
+}
